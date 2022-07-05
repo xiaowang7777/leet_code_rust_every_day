@@ -6,3 +6,5 @@ mod tests {
         assert_eq!(result, 4);
     }
 }
+
+mod _2022_07_05;
